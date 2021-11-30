@@ -1,0 +1,2 @@
+this is normal text file
+to check some code
